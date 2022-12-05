@@ -1,0 +1,35 @@
+{
+  "image_name": "cyberdojofoundation/python_unittest:b8333d3",
+  "display_name": "Yahtzee refactoring, Python unitttest",
+  "filename_extension": [
+    ".py"
+  ],
+  "version": 2,
+  "created": [
+    2022,
+    12,
+    5,
+    14,
+    32,
+    17,
+    656691
+  ],
+  "exercise": "",
+  "highlight_filenames": [
+
+  ],
+  "tab_size": 4,
+  "max_seconds": 10,
+  "progress_regexs": [
+
+  ],
+  "theme": "light",
+  "colour": "on",
+  "predict": "off",
+  "revert_red": "off",
+  "revert_amber": "off",
+  "revert_green": "off",
+  "group_id": "9LPJUY",
+  "group_index": 38,
+  "id": "6D3jlW"
+}
