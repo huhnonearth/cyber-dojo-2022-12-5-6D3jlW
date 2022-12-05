@@ -5,7 +5,7 @@ class TestAOC(unittest.TestCase):
 
     def test_aoc_part1(self):        
         self.assertEqual(26, get_number_part1('input1.txt'))
-        self.assertEqual(284, get_number_part1('input2.txt'))
+        #self.assertEqual(284, get_number_part1('input2.txt'))
  
     def test_aoc_part2(self):        
         self.assertEqual(5353, get_number_part2('input3.txt'))
