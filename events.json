@@ -27,5 +27,21 @@
       29,
       296217
     ]
+  },
+  {
+    "duration": 1.613411,
+    "colour": "red",
+    "predicted": "none",
+    "revert_if_wrong": "off",
+    "index": 2,
+    "time": [
+      2022,
+      12,
+      5,
+      14,
+      40,
+      6,
+      724397
+    ]
   }
 ]

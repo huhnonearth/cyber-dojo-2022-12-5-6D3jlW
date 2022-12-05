@@ -3,9 +3,9 @@ FF
 FAIL: test_aoc_part1 (test_aoc_2021_8.TestAOC)
 ----------------------------------------------------------------------
 Traceback (most recent call last):
-  File "/sandbox/test_aoc_2021_8.py", line 7, in test_aoc_part1
-    self.assertEqual(26, get_number_part1('input1.txt'))
-AssertionError: 26 != None
+  File "/sandbox/test_aoc_2021_8.py", line 8, in test_aoc_part1
+    self.assertEqual(284, get_number_part1('input2.txt'))
+AssertionError: 284 != 26
 
 ======================================================================
 FAIL: test_aoc_part2 (test_aoc_2021_8.TestAOC)
@@ -13,7 +13,7 @@ FAIL: test_aoc_part2 (test_aoc_2021_8.TestAOC)
 Traceback (most recent call last):
   File "/sandbox/test_aoc_2021_8.py", line 11, in test_aoc_part2
     self.assertEqual(5353, get_number_part2('input3.txt'))
-AssertionError: 5353 != None
+AssertionError: 5353 != 26
 
 ----------------------------------------------------------------------
 Ran 2 tests in 0.000s
