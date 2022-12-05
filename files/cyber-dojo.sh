@@ -1,1 +1,1 @@
-python -m unittest *test*.py
+python -m unittest test_aoc_2021_8.py
